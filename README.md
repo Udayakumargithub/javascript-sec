@@ -1,0 +1,2 @@
+# javascript-sec
+javascript practice
